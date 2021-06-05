@@ -7,7 +7,7 @@ import (
 )
 
 const (
-        ES_URL = "http://10.128.0.2:9200"
+        ES_URL = "http://10.128.0.2:9200" // demo url
 )
 
 func readFromES(query elastic.Query, index string) (*elastic.SearchResult, error) {

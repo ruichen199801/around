@@ -10,7 +10,7 @@ import (
 const (
 	POST_INDEX = "post"
 	USER_INDEX = "user"
-	ES_URL     = "http://10.128.0.2:9200"
+	ES_URL     = "http://10.128.0.2:9200" // demo url
 )
 
 func main() {
