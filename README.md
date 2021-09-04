@@ -14,14 +14,14 @@ Around is a full-stack web application for people to share photos/videos and pub
 
 #### Frontend
 
-* Implemented user-friendly webpages for users to create and browse posts and search other users' posts using *React*
-* Improved the authentication using token-based registration/login/logout flow with *React Router v4* and server-side user authentication with *JWT*
+* Built user-friendly webpages for users to create and browse posts and search other users' posts using *React*
+* Improved authentication using token-based registration/login/logout flow with *React Router v4* and server-side user authentication with *JWT*
 * Deployed to *AWS Amplify*
 
 #### Backend
 
-* Launched a scalable web service in *Go* to handle user posts and account info
-* Used *ElasticSearch* to support searching posts based on keyword or username
+* Launched a scalable web service in *Go* to handle user posts and account information
+* Used *Elasticsearch* to support searching posts based on keyword or username
 * Deployed to *Google Cloud (Google App Engine)* 
 
 <br><em>Ruichen Zhang</em>
